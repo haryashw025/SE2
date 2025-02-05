@@ -12,22 +12,7 @@
  * @mainpage
  * This program is designed to showcase advanced documentation practices.
  * - Demonstrates how to document a C++ class and its methods.
- * - Includes an additional section for illustrating how to extend comments.
- *
- * It uses Doxygen to generate HTML documentation that can help developers 
- * understand and maintain the code more effectively.
- */
-
-/**
- * @section USAGE Usage Example
- * Here's how to use the Calculator class:
- * @code
- * Calculator calc;
- * int result = calc.add(3, 5);
- * std::cout << "Sum: " << result << std::endl;
- * @endcode
- */
-
+ 
 // Include Section
 #include <iostream>
 #include <cmath>
